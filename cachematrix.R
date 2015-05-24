@@ -1,5 +1,6 @@
-## Caching is done analogous to the example. But in esample there is no inspecting for NAs, also in this function it could cause problems. Additionaly, some matrices don-t have inverse.
+## Caching is done analogous to the example. But in example there is no inspecting for NAs and also in this function it could cause problems. Additionaly, some matrices don-t have inverse:
 ## TODO: Inspect if matrix has inverse by finding det(x) != 0
+## TODO: And yeah, only square matrices :)
 
 ## Analogous to the example with mean we have:
 
